@@ -19,4 +19,3 @@ REACT_APP_FIREBASE_AUTH_DOMAIN='FIREBASE_AUTH_DOMAIN'
 REACT_APP_FIREBASE_DATABASE_URL='FIREBASE_DB_URL'
 ```
 
-Please contact afian@afi.io if you have any questions or suggestions. Pull requests are welcome.
